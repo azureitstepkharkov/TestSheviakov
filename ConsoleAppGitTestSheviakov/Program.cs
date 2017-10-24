@@ -10,6 +10,7 @@ namespace ConsoleAppGitTestSheviakov
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello! Git test worked just fine!");
         }
     }
 }
